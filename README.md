@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @AlexanderWangY
-- 👀 I’m interested in Computer Science!!! (I also like video games and manga)
+- 👋 Hi, I’m Alexander Wang
+- 👀 I’m studying Computer Science!
 - 🌱 I’m currently learning Java, HTML, CSS, Javascript/Typescript, Python and C++!
-- 💞️ I’m looking to collaborate on Web Dev and backend projects! 
-- 📫 How to reach me alexanderwang@ufl.edu
+- 🚀 Looking for new things learn
+- 📫 How to reach me: {alexanderwang@ufl.edu}(My Email)!
 - 🏫 Freshman @ UF 🐊
 
 (づ￣ ³￣)づ ~-~-💖
