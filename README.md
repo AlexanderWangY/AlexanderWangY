@@ -1,5 +1,5 @@
 # Welcome to my Github 😸
-![alexvisitors](https://count.getloli.com/get/@alexvisitors?theme=asoul)
+![visitorCounter](https://komarev.com/ghpvc/?AlexanderWangY&color=pink)
 ### Visitor Count ⬆️⬆️⬆️
 
 ## About me
