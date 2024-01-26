@@ -1,6 +1,6 @@
 # Welcome to my Github 😸
 
-![visitorCounter](https://komarev.com/ghpvc/?username=AlexanderWangY&color=ff69b4&base=25&style=for-the-badge) ![top](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderWangY)
+![visitorCounter](https://komarev.com/ghpvc/?username=AlexanderWangY&color=ff69b4&base=25&style=for-the-badge)
 
 ## About me
 Hey there! 👋
