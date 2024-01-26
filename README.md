@@ -1,5 +1,5 @@
 # Welcome to my Github 😸
-![visitorCounter](https://komarev.com/ghpvc/?AlexanderWangY&color=pink)
+![visitorCounter](https://komarev.com/ghpvc/?AlexanderWangY&color=green)
 ### Visitor Count ⬆️⬆️⬆️
 
 ## About me
