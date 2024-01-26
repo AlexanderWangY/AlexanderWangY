@@ -1,5 +1,5 @@
 # Welcome to my Github 😸
-![visitorcount](https://counter7.optistats.ovh/private/freecounterstat.php?c=zxw3n4whut7fnseewh79cfu7a1ykdc2j)
+![alexvisitors](https://count.getloli.com/get/@alexvisitors?theme=asoul)
 ### Visitor Count ⬆️⬆️⬆️
 
 ## About me
