@@ -3,7 +3,13 @@
 ### Visitor Count ⬆️⬆️⬆️
 
 ## About me
-Hello!!! I'm Alexander Wang 👋! I'm a student at University of Florida studying Computer Science. My interests include motorcycling 🏍️, learning languages ✍️, gaming 🎮, and last bust certainly not least... PROGRAMMING 🖥️⌨️🥳.
+Hey there! 👋
+
+I'm Alexander Wang and I currently attend the University of Florida 🟧🟦 as a Computer Science major. I enjoy riding motorcycles 🏍️, learning languages ✨, playing video games 🎮, and last but not least... PROGRAMMING! 💻
+
+I'm currently working on super duper cool projects! Some of which are open source. Reach out if you want to help!
+
+GO GATORS! 🐊
 
 ## Technical Interests
 - Computer Vision/Image Processing 📷
