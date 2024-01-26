@@ -1,6 +1,6 @@
 # Welcome to my Github 😸
 
-![visitorCounter](https://komarev.com/ghpvc/?username=AlexanderWangY&color=ff69b4&base=25&style=for-the-badge) ![linkedin](https://img.shields.io/badge/AlexanderWangY?style=for-the-badge&logo=linkedin&logoColor=white_)
+![visitorCounter](https://komarev.com/ghpvc/?username=AlexanderWangY&color=ff69b4&base=25&style=for-the-badge) ![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ## About me
 Hey there! 👋
