@@ -12,7 +12,7 @@ I'm currently working on super duper cool projects! Some of which are open sourc
 GO GATORS! 🐊
 
 ## Technical Interests
-- Computer Vision/Image Processing 📷
+- Computer Vision / Image Processing 📷
 - Web development / Mobile development 📱
 - Robotics 🤖
 
