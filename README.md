@@ -18,6 +18,7 @@ GO GATORS! 🐊
 
 ## Contact me + Personal Stuffz
 [My Website](https://alexwala.dev)
+
 Reach me at:
 - alexanderwang@ufl.edu 🧡💙
 - @alexwala -> Discord 💜
