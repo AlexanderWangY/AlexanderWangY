@@ -17,7 +17,7 @@ GO GATORS! 🐊
 - Robotics 🤖
 
 ## Contact me + Personal Stuffz
-[My Website](https://alexander-wang-portfolio.vercel.app/) (DON"T ACCESS ON MOBILE LOL)
+[My Website](https://alexwala.dev)
 Reach me at:
 - alexanderwang@ufl.edu 🧡💙
 - @alexwala -> Discord 💜
