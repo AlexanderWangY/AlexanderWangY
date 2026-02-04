@@ -1,3 +1,3 @@
 comp sci @ uf.\
-previously did distributed computing @ Vobile.\
+prev. distributed & cloud infra @ Vobile.\
 incoming @ nvidia.
