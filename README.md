@@ -1,10 +1,4 @@
-incoming @ nvidia
-
-prev cloud infra @ Vobile Inc
-
-cs @ uf
-
-alexwala (discord)
-
-
+comp sci @ uf.\
+previously did distributed computing @ Vobile.\
+incoming @ nvidia.\
 
