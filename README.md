@@ -1,6 +1,6 @@
-backend shenanigans @ [swamphacks](https://www.swamphacks.com/).\
-totally safe drones @ [ufosc](https://ufosc.org/).\
-i'm learning cs @ uf.
+incoming @ nvidia
+prev cloud infra @ Vobile Inc
+cs @ uf
 
 alexwala (discord)
 
