@@ -9,6 +9,7 @@ i like:
   - distributed systems
   - systems programming
   - robots
+  - networking
 
 i dislike:
   - 苦瓜 (ku gua)
