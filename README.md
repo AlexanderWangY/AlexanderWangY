@@ -1,9 +1,5 @@
 ```
-hey i'm alex and i like building tech things
-cs @ uf [dec '26]
-
-incoming @ nvidia
-prev @ vobile
+i'm alex, i do software @ nvidia
 
 i like:
   - distributed systems
